@@ -1,0 +1,126 @@
+
+Third World problems
+
+Countries that got independence from the colonial powers in the last century still rely on old school ideas of development and growth  more money comes from more manufacturing comes from more labour comes from more population comes from more children
+
+Before mechanization and automation was a thing or when they were too expensive the cheap labour from Asia and Africa oiled the Industrial Revolution creating the first world countries that we see today When we suddenly move away from this thought through mechanization and automation these people are deprived of the very reason of their existence On the other hand the people of the first world countries define other higher purpose goals in life and strive for it justifying the need for mechanization and automation whereas there is no alternative for the people of the third world countries
+
+Then whats the solution
+
+    Decouple people from work
+    Provide basic needs as a fundamental right
+    Provide Universal Basic Income for fulfilling their wants
+    Then go for mechanization and automation of work
+
+This is quite similar to the idea of Communism with the exception that the working class are nothing but the machines while humans are the beneficiaries
+Prepare criticisms of AI as a tool for advancement so its breakthroughs also have to be useful to technology and science Do this across various fields and sectors so that you can be very specific in response to the affirmative stand or case The history is full of philosophical arguments eg by Turing Heidegger Dreyfus Searle Minsky and others Utilitarianism Or most recently Effective Altruism after cryptocurrency debacles So everyone does not end up eventually being indicted Or Beneficial AGI as utopian Find plenty of speakers such as Nick Bostrom Rodney Brooks Geoffrey Hinton Gary Marcus Melanie Mitchell Peter Norvig Stuart Russell and Peter Singer among others
+
+Defense had treated it as a kind of armor that was unnecessary after the Cold War so that led to the AI Winter but it would be back
+
+Now Deep Learning has been exploited on big data to create large language models Autonomous vehicles braincomputer interfaces robotics and virtual reality are taking longer
+
+Get the opponents to define AI If ChatGPT this should be much simpler Funding for Generative AI is starving other necessary areas And look at whether they are talking about experts professionals or the public Whether they are elitist If tech is an art anyway Or go after definitions of intelligence if not consciousness as classic puzzles Classify the types group them apply and prioritize Relevance implies an agenda Objectives of technology Stalls fallacies failures or contradictions Neutral networks seemed to take forever from their inception Go after their argument theory or more likely lack thereof evidence and so on If they cite studies look at the problems and limitations of each
+
+If nothing else ideology is still at a standoff after Marxism in the East that had fueled Communism and also Socialism That had a tipping point at the end Others cite a Great Filter as a reason for not seeing universal or natural AI But be careful about Doomers who claim that the end is near which sounds like fundamentalist religions Similarly uploading without knowing whether new substrates are even feasible
+
+The governments show reluctance and the need to regulate Some disciplines tend to be conservative such as biology so unwanted and unexpected side effects are curtailed Consequences are a biggie To privacy as well Where RD is all about experimentation engineering prefers to have known solutions and strategies Rather than new threats So look at whether they are putting new labels on old computing Or failing to transfer the tech such as algorithms or models to the newer kinds of emerging tech eg quantum computing or brain emulation
+
+Another approach is to provide an alternative case that solves the problem better eg how to cope with so much data from a proliferation of sensors to make decisions and do tasks
+
+Society still seems to fear it Advances have plateaued if not been halted in some areas to avoid loss of control This one just happens to be as biased which becomes ironic It cannot comprehend reality Has no clue when it is in error And it leads to more inequality Therefore it cannot be allowed full autonomy Which would not be patentable anyway If designs were original which they are not And not sanctioned against Futurists see immanent transhumanism posthumanism tech singularity and superintelligence If not totalitarianism and conflict in lieu of value alignment Whether or not they get past the monopoly of Big Tech And that does nothing for the climate
+
+Line up your objections and do a literature review to get quotes Debunk the hype Run mock debates pitting the bots against each other Researchers also have to be merciless in selfcriticism so they learn to doubt and question their beliefs Continue to boil this down to a coherent framework to wield against your adversary
+The main problem is as ever what humans will do with it Science is a good thing in itself but humanity somehow used science to produce SUVs or to release in the atmosphere large quantities of organohalogen compounds in particular chlorofluorocarbons and bromofluorocarbons or to develop the means to wage wars on an industrial scale causing for example the 30000000 victims of WWI in just four years between 1914 and 1918
+
+The problem is simple When humans were in a state of nature a dangerous individual could only cause harm to a small number of people that is only those people that were unfortunate to be close enough
+
+As civilisation developed the opportunities for dangerous people to cause harm increased together with the average number of victims Today we are already in the danger zone were one individual could conceivably kill billions
+
+If ever humans create true AIs really intelligent AIs dangerous people could be able to rely on AIs to help them realise their atrocities Today dangerous people need to be really smart if they are to make many victims Daily gun violence in the US is a good example of the effectiveness of dangerous idiots Each gun homicide causes on average 3 deaths broadly 30000 deaths a year by 10000 homicides a year Each mass shooting incident on average also causes 5 deaths broadly 1500 deaths a years for 300 mass shootings The Columbine High School massacre alone caused 13 deaths
+
+Gun violence in the US gives an idea of how many dangerous people actually try to commit homicides The number of fatalities by homicides in the US is also very important broadly 15000 a years guns  other means However the killers are mostly not very bright and essentially targeting a relatively small number of people to begin with This partly explains why the terrorist attack on the World Trade Center that killed more than 3000 shocked not only the US but the whole world
+
+It seems that this attack was very unusual People who carried out the attack were relatively intelligent people Yet unlike idiots intelligent people tend to make sure they can get away with murder and on this occasion they didn’t
+
+Broadly the reason that idiots kill relatively few people even though there is a lot of them and the reason that intelligent people can kill more people but rarely do it is that killing many people is difficult and complicated and even more difficult if you want to get away with it
+
+If AIs become available this will no longer apply Intelligent persons motivated to kill large number of innocent people will be able to use AIs to do it and get away with it And they will do it How many of these dangerous people are there This is difficult to say but they might be as many as the people who commit mass shootings in the US today that is broadly 300 a year Now multiply 300 by the number of casualties that would be made possible with the assistance of an AIs which may be anything between thousands and millions of casualties if not more
+
+So I guess we better make sure one way or the other that AIs won’t be used by people motivated to kill many innocent people
+
+This is a great question There’s a lot of misinformation about the risks and opportunities surrounding artificial intelligence AI It’s a complicated topic but I’ll try to unpack a few key points here
+
+Let’s start with a quick definition AI is the simulation of human intelligence by machines Example of AI systems used regularly in developed countries include Amazon’s Alexa smart replies in Gmail Chatbots predictive searches in Google and recommendations At a baseline level AI helps improve our everyday lives by solving pain points streamlining processes and advancing human knowledge
+
+It’s understandable why many consumers find the idea of AI intimidating or unsettling – science fiction movies have been obsessed with robot takeovers for years and recent movies like I am Mother portray AI as contributing to a postapocalyptic world But the concern isnt just from Hollywood writers obsessed with the fantastical worldrenowned minds like Stephen Hawking and Elon Musk have also rung the AI warning bell
+
+To be fair they raise some important points But instead of getting defensive AI researchers should consider feedback and ask themselves just because I can advance a particular technology should I This isn’t a knock on AI we are AI researchers after all–but rather a question scientists and researchers in every field should ask themselves when advancing technologies with unknown consequences ping Google Facebook This is particularly true for AI more than any technologies because AI takes part in the decision making It is easy to know who is responsible for pushing the red button sending missiles to an enemy it is far more complex when the decision was made by an AI Any system taking decisions based on data will propagate and amplify human biases Anyone using AI cannot hide behind this fact and act as data was a source of absolute truth they need to take full responsibility of the decision made with their system
+
+We do think is worth keeping an eye on is AI’s impact on wealth inequalities As with any advanced technology AI has the power to increase the wealth gap between the rich and the poor especially if monopolies are formed Our vision of work is rooted on the fact that we need people to work to keep the society growing But with technological progress this is less and less true Indeed “AI is taking over jobs” because machines can do things that used to require humans Many authors in sciencefiction foresee a world where no one needs to work anymore and all the basic needs are provided by fully autonomous systems This future is sustainable only by deep restructuration of how wealth from autonomous systems is distributed Researchers and politicians should continue exploring the feasibility of a universal basic income UBI Although considered radical by some the idea behind UBI was first floated in the 1600s by Sir Thomas More and was considered by President Richard Nixon
+
+Yes there are some areas we need to keep an eye on but remember we’re still far from achieving what most consumers consider true AI – technology with consciousness Instead over the next few years you’ll see more of the following AI advancements
+
+Smarter weather predictions and agriculture
+
+Accurately predicting weather can be difficult and errors have the potential to hurt businesses disrupt travel and endanger lives especially for those who lack transportation or the ability to quickly seek shelter when needed Thankfully AI offers solutions by analyzing data and making future predictions According to the American Meteorological Society AI is a gamechanger for improving realtime decision making with highimpact weather This will allow us to predict more accurately natural disasters such as hurricanes floods but even earthquakes and tsunamis AI is also starting to be used toward a more sustainable agriculture By employing such software to optimize crops yield we can reduce the space required without having to resort to damaging techniques like pesticides
+
+Energy optimization
+
+From microarchitectures to heavy industries the progress of AI had a significant impact in engineering The challenges we face today are far more complex than they were a few years ago Both tiny systems like smart devices and huge structures like buildings need to be more and more energy efficient These problems cannot be solved by only traditional engineering science Today AI and data science helps crunching numbers to design green buildings or green energy production for instance
+
+Selfdriving cars everywhere
+
+Sure if you live in Silicon Valley you routinely come across selfdriving cars especially by the Googleplex But for the majority of US residents selfdriving driving cars not only seem out of reach they also seem untrustworthy According to a recent ReutersIpsos survey half of US residents believe driverless cars are more dangerous than cars driven by people and nearly twothirds of respondents said they would not buy a fully autonomous vehicle This is a mindset that will quickly change and there will be a tipping point over the next three to five years As people interact more with cars that have driverless features automatic breaks evasive steering and presafe nudging there comfort level increase It’s a matter of when not if driverless cars become mainstream and dominate American highways
+
+AI in healthcare
+
+Recent years have witnessed striking advances in the ability of machines to understand and manipulate images language and speech largely fueled by an explosion of research in a subfield of machine learning known as deep learning Despite the prodigious amounts of machinereadable data generated in healthcare 150 exabytes or 1018 bytes in US alone growing 48 annually including medical images clinical notes and sensor data the field has been slow to fully benefit from advances in deep learning because the data are subject to important patient privacy laws and the algorithms are subject to regulatory oversight As deep learning researchers healthcare providers and regulatory bodies continue to work together towards making data more accessible deep learning will enhance the abilities of healthcare providers resulting in more affordable accessible and personalized care
+
+Ondemand language translation
+
+The days of awkward hand pointing are about to be over Tourists can now depend on sophisticated language translators while traveling internationally In 2018 Microsoft unveiled neural machine translation NMT which provides highquality translations for both the written word and text that appears in images such as traffic signs or menus This advancement will help increase communication decrease petty misunderstandings and contribute to a more open and cosmopolitan world where people have a deeper understanding and appreciation for others
+If you are looking for “Valid Reasons” against developing Artificial Intelligence by the time you actually work through everything involved there is only one valid reason… that you want Humanity and Human Civilization to become extinct
+
+On the other hand if you are trying to understand the reasons people have to be against the development of AI those are many and varied
+
+All of them are based off fear that developing AI will be bad for all Humanity or bad for the majority of Humanity or against God’s Plan
+
+Some of the fears are actually reasonable but the problem is despite that to choose anything other than moving forward to develop AI results in the path to extinction for the Human Race So here are some real valid fears but ones which must be addressed knowing AI must be developed and developed fast meaning no slowing it down to be cautious
+
+ AI can result in the extinction of the Human Race This is a real threat but the only way to stop the development of AI is to first cause the extinction of the Human Race So this concern must be addressed in a way that also allows AI to be as rapidly developed as possible
+
+ AI can be used as an imbalancing weapon which could be used to conquer and enslave the world under some extreme dictatorship This to is a real threat But not developing AI in any countries who might want to try and stop it will only guarantee countries led by dictatorships will gain the AI advantage needed to “conquer and enslave the world”
+So we need to make sure that more than one country which believes in the rights and freedoms of individuals is close enough to the leading edge in the race to develop AI that dictatorial governments don’t gain an extreme advantage and use it to take over the world I stress multiple governments because even a country which believes in the rights and freedoms of individuals could be tempted by this power if they alone had it so we need multiple countries to have it
+
+ AI will soon within a decade or two or three be able to replace virtually all Humans in the work place This can then result in an extreme imbalance of power and wealth vastly greater than the one we already have thus resulting in a Dictatorial Plutocratic Technocracy where a very small number of people live extraordinarily well and the rest of everyone become unneeded and unwanted by them This could result in extreme poverty for the majority or lead to the purging of the masses But the development of AI can’t be stopped except by killing all Humans and destroying Human Civilization So this danger must be handled in some other manner a social manner where the fruits of the technology are more fairly distributed
+
+Please note that Artificial General Super Intelligent Personalities AGSIPs will not be like any other invention before because AGSIPs will literally be a superior sentient selfaware intelligent living species than Humans are
+
+ AI will eventually end up in control over Human Civilization at which point it will decide the fate of Humanity and it may decide to get rid of Humans or enslave them or absorb their knowledge while deleting all individual personalities or some other terrible choice Well again this is a real danger But the development of AGSIPs cannot be stopped short of killing all Humans So the answer to this danger is that we must design create and raise AGSIPs the right way while aligning the goals of AGSIPs and Humanity to the same goal which will be to merge Humans with Artificial General Super Intelligent Brains AGSIBs so they become equal to AGSIPs and then AGSIPs also become equal before the law as Humans
+
+Then we also have many irrational fears or people who for the above fears choose the wrong solution which actually makes it more likely Humanity will go down a really bad path
+Common arguments all center on the idea that the AI will either overtly or covertly take over everything and humans will become slaves The path to this conclusion are many
+
+Personally I don’t think these arguments hold much water Just because we humans can think we think we are intelligent In reality we are subject mostly to emotions and our reptilian brain An AI would not have either of those handicaps and therefore will think completely differently from us Without emotion or reptilian drives an AI would not fear death and would not crave power
+
+Another argument against is that we will accidentally program it to do something and it will do it to an infinite degree thus using up an infinite amount of resources The problem with this argument is that there is a simple solution to that and that is pull the plug If the AI wants to make an infinite amount of paper clips for some poor programming reason it cannot manufacture by itself We can simply pull the plug
+
+If you really want to explore this topic pick up the Bill Gates and Richard Dawkins recommended book A Thousand Brains by Jeff Hawkins
+AI was like Dream Of fiction writers And now with its evolution its becoming Reality day by day in some incremental phases
+
+    As In research involving 1500 companies It has been found that firms achieve the most significant performance improvements when humans and machines work together And there’s a lot we can improve and innovate with the help of AI As we know AlphaGo Computer Go program developed by Google DeepMind won over 18time world champion Lee Sedol If we go one making it StrongAI without restrictions it can become dangerous for human
+
+We know Artificial Intelligence 
+
+    It has been created by Human
+    It is created for human
+    It can become stronger and better by Human initially
+
+    We should not give all the power to AI We should always be the conqueror Of it
+
+“Artificial Intelligence should always be Human Centric”
+
+It should always be created to help human or to create things which are impossible by human
+
+Apart from that AI is giving it all to automate tasks analyze massive data sets and predict outcomes We must keep working on making AI smarter in very controllable manner that it doesnt harm human in future
+
